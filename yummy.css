@@ -1,0 +1,195 @@
+.navbar{
+    /* position: fixed; */
+    background-color: white;
+    width: 100%;
+}
+#font{
+    font-family: 'Combo';
+}
+
+.greybackground{
+    background-color: rgb(231, 231, 231);
+    height: 100%;
+    width: 100%;
+    
+    
+}
+#img-one{
+    height: 50vh; 
+    width: 70%; 
+    margin-left: 100px;
+}
+#colored{
+    color: red;
+}
+
+.middle-tittle{
+     text-align: center;
+     margin-top: 100px;
+     margin-bottom: 50px;
+}
+#img-two{
+    height: 100vh;
+    width: 110%;
+}
+#img-three{
+    height: auto;
+    width: 100%;
+}
+
+#para p,img{
+   padding-left: 30px;
+   padding-right: 30px;
+}
+
+
+.greybackground2{
+    background-color: rgb(231, 231, 231);
+    margin-top: 80px;
+    height: 100%;
+    width: 100%;
+    
+}
+
+.card-one{
+    background-color: rgb(202, 52, 52);
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+
+}
+#card-content{
+    padding: 20px;
+    color: white;
+    font-weight: 700;
+}
+.card-one button{
+    background-color: rgb(223, 81, 81);
+    color: white;
+    border: none;
+    border-radius: 50px;
+    padding: 10px;
+}
+.card-two{
+    background-color: white;
+    height: 100%;
+    width: 90%;
+    margin-top: 100px;
+
+}
+#card-info{
+    padding: 50px;
+    text-align: center;
+}
+
+.background-img img{
+    width: 100%;
+    height: 50vh
+    
+}
+#dish{
+    height: 250px;
+    width: auto;
+    margin-top: 50px;
+
+}
+#dishname{
+    text-align: center;
+}
+#ingredents{
+    text-align: center;
+}
+#money{
+    color: red;
+    font-size: 35px;
+    width: 100%;
+    font-weight: 500;
+    text-align: center;
+}
+
+.greybackground2{
+    background-color: rgb(231, 231, 231);
+    margin-top: 80px;
+    height: 100%;
+    width: 100%;
+    
+}
+.greybackground{
+    background-color: rgb(236, 236, 236);
+    margin-top: 100px;
+}
+
+.heading{
+    text-align: center;
+    margin-top: 100px;
+}
+
+#people{
+    color: black;
+}
+.background{
+    background-color: rgb(231, 231, 231);
+    height: 100vh;
+    width: 100%;
+}
+
+
+.backgroundtwo{
+    background-color: rgb(235, 235, 235);
+    height: 100%;
+    width: 100%;
+}
+
+.cards img{
+    width: 100%;
+    
+   
+    
+}
+
+.cards{
+    background-color: white;
+    width:90%;
+    /* border-radius: 30px; */
+    
+    margin: auto;
+   
+   
+}
+.cards h3,p{
+    text-align: center;
+    padding: 20px;
+}
+.cards:hover{
+   transform: scale(1.1);
+   transition: 1s;
+}
+
+#Gallery{
+    width: 400px;
+    padding: 50px;
+    margin-left: 350px;
+    
+}
+
+.footer{
+    background-color: rgb(36, 33, 33);
+    height: 100%;
+    width: 100%;
+    color: white;
+}
+
+#footer h4{
+      text-align: center;
+      margin-top: 30px;
+}
+
+#footer p{
+    color: rgb(153, 140, 140);
+    
+}
+
+#footer h5{
+    text-align: center;
+    margin-top: 30px;
+}

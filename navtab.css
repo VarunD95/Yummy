@@ -1,0 +1,17 @@
+#dish{
+    height: 300px;
+    margin-top: 50px;
+
+}
+#dishname{
+    text-align: center;
+}
+#ingredents{
+    text-align: center;
+}
+#money{
+    color: red;
+    font-size: 35px;
+    margin-left: 140px;
+    font-weight: 500;
+}
