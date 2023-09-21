@@ -15,9 +15,12 @@
     
 }
 #img-one{
-    height: 50vh; 
+    height: 50%; 
     width: 70%; 
-    margin-left: 100px;
+    display: flex;
+    width: 100%;
+    align-items:center ;
+    justify-content: center;
 }
 #colored{
     color: red;
@@ -29,8 +32,8 @@
      margin-bottom: 50px;
 }
 #img-two{
-    height: 100vh;
-    width: 110%;
+    height: 100%;
+    width: 100%;
 }
 #img-three{
     height: auto;
@@ -53,8 +56,8 @@
 
 .card-one{
     background-color: rgb(202, 52, 52);
-    margin-top: 100px;
-    margin-left: 20px;
+    margin-top: 10px;
+    /* margin-left: 20px; */
     margin-bottom: 20px;
 
 }
@@ -73,8 +76,8 @@
 .card-two{
     background-color: white;
     height: 100%;
-    width: 90%;
-    margin-top: 100px;
+    width: 100%;
+    margin-top: 10px;
 
 }
 #card-info{
@@ -104,7 +107,7 @@
     font-size: 35px;
     width: 100%;
     font-weight: 500;
-    text-align: center;
+    margin-left: 100px;
 }
 
 .greybackground2{
@@ -143,16 +146,17 @@
 .cards img{
     width: 100%;
     
+    
    
     
 }
 
 .cards{
     background-color: white;
-    width:90%;
+    width:100%;
     /* border-radius: 30px; */
     
-    margin: auto;
+    
    
    
 }
@@ -161,8 +165,8 @@
     padding: 20px;
 }
 .cards:hover{
-   transform: scale(1.1);
-   transition: 1s;
+   /* transform: scale(1.1);
+   transition: 1s; */
 }
 
 #Gallery{
