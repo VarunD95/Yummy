@@ -40,15 +40,11 @@
     width: 100%;
 }
 
-#para p,img{
-   padding-left: 30px;
-   padding-right: 30px;
-}
 
 
 .greybackground2{
     background-color: rgb(231, 231, 231);
-    margin-top: 80px;
+    
     height: 100%;
     width: 100%;
     
@@ -119,7 +115,7 @@
 }
 .greybackground{
     background-color: rgb(236, 236, 236);
-    margin-top: 100px;
+    
 }
 
 .heading{
@@ -145,10 +141,6 @@
 
 .cards img{
     width: 100%;
-    
-    
-   
-    
 }
 
 .cards{
